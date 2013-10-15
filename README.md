@@ -1,13 +1,15 @@
-prestashop-interkassa
+Prestashop + Interkassa
 =====================
 
-Interkassa payment module for prestashop
+Платежный модуль Interkassa для Prestashop
 
 Инструкции по установке:
 
 Скачайте [zip-архив](https://github.com/logical-and/prestashop-interkassa/archive/master.zip) и распакуйте содержимое директории prestashop-interkassa-master в корень Prestashop.
 
-===
+---
+
+Interkassa payment module for prestashop
 
 Installation instructions:
 
