@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+        <module>
+            <name>interkassa</name>
+            <displayName><![CDATA[Interkassa]]></displayName>
+            <version><![CDATA[0.1]]></version>
+            <description><![CDATA[Accept payments for your products via Interkassa.]]></description>
+            <author><![CDATA[PrestaShop, http://propresta.ru, And <and.webdev@gmail.com]]></author>
+            <tab><![CDATA[payments_gateways]]></tab>
+	<confirmUninstall>Are you sure about removing these details?</confirmUninstall>
+            <is_configurable>1</is_configurable>
+            <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+        </module>
